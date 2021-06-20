@@ -44,7 +44,7 @@ If you want to test the code
 
 ## Live Link of the project
 
-[Live-List](https://cocky-kowalevski-7f7bdf.netlify.app/)
+[Live-TodoList](https://cocky-kowalevski-7f7bdf.netlify.app/)
 
 ## Author
 
@@ -52,7 +52,7 @@ If you want to test the code
 
 - Github: [Ralph-1](https://github.com/Ralph-1)
 - Twitter: [@NotRalph0](https://twitter.com/NotRalph0)
-- Linkedin: [Ralph](https://www.linkedin.com/in/ralph-oburu-092a561b1/)
+- Linkedin: [Ralph](https://www.linkedin.com/in/ralph-oburu)
 
 👤 **Akshay Narkar**
 
@@ -67,11 +67,6 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Thanks to Odin project for the tutorials.
-- Wes Bos and Brad Traversy for their informative videos.
 
 ## 📝 License
 
